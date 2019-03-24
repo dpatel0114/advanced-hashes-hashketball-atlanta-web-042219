@@ -119,6 +119,7 @@ end
   
   
 def big_shoe_rebounds
+  result = []
   for main_key in game_hash.keys
   binding.pry
 end
